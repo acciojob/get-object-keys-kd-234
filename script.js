@@ -1,6 +1,7 @@
 //your JS code here. If required.
 
-var student{
+var student={
 	name:kuldeep,
 	age:34,
 }
+console.log(Object.key(student));
