@@ -1,7 +1,8 @@
 //your JS code here. If required.
 
 var student={
-	name
+	name:'kd',
+	age:32,
 	
 }
-console.log(Object.key(student));
+console.log(Object.keys(student));
